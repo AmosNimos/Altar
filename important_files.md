@@ -1,0 +1,1 @@
+The location to key files in the templeOS system to edit various key features, examples the file that contains the themes, or the default shortcuts, wallpaper, ects... this is how the filesystem is organised
